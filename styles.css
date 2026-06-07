@@ -1663,6 +1663,21 @@ img {
   min-height: 120px;
 }
 
+/* .form-submit {
+  width: 100%;
+  padding: 16px 32px;
+  background: var(--primary);
+  color: var(--white);
+  border: none;
+  border-radius: 50px;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  box-shadow: var(--shadow-orange);
+} */
+
 .form-submit {
   width: 100%;
   padding: 16px 32px;
@@ -1676,6 +1691,18 @@ img {
   cursor: pointer;
   transition: all var(--transition-base);
   box-shadow: var(--shadow-orange);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.form-submit svg {
+  width: 14px;
+  height: 14px;
+  stroke-width: 2;
+  flex-shrink: 0;
 }
 
 .form-submit:hover {
