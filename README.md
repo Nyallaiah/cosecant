@@ -1,129 +1,78 @@
-# Cosecant Technologies Website
+# Cosecant Technologies – Demo Website
 
-A modern, responsive healthcare services website built to showcase medical billing, medical coding, revenue cycle management (RCM), credentialing, transcription, and healthcare support services.
+A modern healthcare services website demo designed and developed by **Nallapati Yallaiah** as a sample client project for Cosecant Technologies.
 
 ## 🌐 Live Demo
 
-**Website:** https://cosecant.vercel.app/
+https://cosecant.vercel.app/
 
----
+## 📖 Project Overview
 
-## 📋 Overview
-
-The Cosecant Technologies website provides information about healthcare outsourcing and revenue cycle management services. The platform is designed to help healthcare providers improve operational efficiency, streamline billing workflows, and maximize revenue collection.
-
-### Key Services
+This project is a responsive healthcare business website created to demonstrate how a professional online presence can be built for organizations offering:
 
 * Medical Billing
 * Medical Coding
 * Revenue Cycle Management (RCM)
 * Medical Transcription
 * AR Calling & Follow-up
-* Provider Credentialing
-* Healthcare Support Services
+* Credentialing Services
+* Healthcare Support Solutions
 
----
+The website showcases modern UI/UX principles, responsive layouts, service pages, contact forms, and business-focused design patterns.
 
 ## ✨ Features
 
-* Responsive design for desktop, tablet, and mobile devices
-* Modern healthcare-focused UI/UX
-* Service showcase pages
-* Contact form for customer inquiries
-* Smooth navigation experience
-* Interactive components and animations
-* Fast loading performance
+* Responsive design for desktop, tablet, and mobile
+* Professional healthcare industry layout
+* Service showcase sections
+* Contact Us page with inquiry form
+* Interactive navigation
+* Smooth animations and transitions
 * SEO-friendly structure
-
----
+* Fast-loading static website
 
 ## 🛠️ Technologies Used
-
-### Frontend
 
 * HTML5
 * CSS3
 * JavaScript (ES6+)
+* Vercel Deployment
 
-### Deployment
+## 🚀 Live Preview
 
-* Vercel
+Visit the deployed website:
 
-### Design
-
-* Responsive Layout
-* Modern UI Components
-* Custom Icons and Styling
-
----
-
-## 📁 Project Structure
-
-```text
-project/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/cosecant.git
-```
-
-### Navigate to the Project
-
-```bash
-cd cosecant
-```
-
-### Open the Website
-
-Simply open:
-
-```text
-index.html
-```
-
-in your browser.
-
-Or use VS Code Live Server:
-
-```bash
-Right Click → Open with Live Server
-```
-
----
-
-## 📞 Contact
-
-For business inquiries and healthcare service consultations, please use the contact form available on the website.
-
-Website:
 https://cosecant.vercel.app/
 
----
+## 👨‍💻 Developer
+
+**Nallapati Yallaiah**
+
+AI/ML Developer & Full Stack Developer
+
+### Skills
+
+* Frontend Development
+* React.js
+* Next.js
+* JavaScript
+* Python
+* Flask
+* Node.js
+* MySQL
+* AWS Cloud
+* AI/ML Solutions
+
+## 📂 Project Purpose
+
+This website was developed as a **demonstration/sample project** to showcase web design and development capabilities for healthcare and business service organizations.
+
+**Note:** This repository and demo are intended for portfolio and demonstration purposes unless otherwise specified by the client.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is provided for demonstration and portfolio purposes.
 
----
+## ⭐ Acknowledgement
 
-## 👨‍💻 Developed By
-
-Cosecant Technologies
-
-Delivering reliable healthcare revenue cycle and business process solutions.
+Designed and Developed by **Nallapati Yallaiah**
