@@ -62,7 +62,7 @@
           <h1 class="reveal reveal-delay-1">Empowering <span class="highlight">Healthcare Providers</span> Across the USA</h1>
           <p class="hero-subtitle reveal reveal-delay-2">End-to-end Revenue Cycle Management solutions that maximize reimbursements, reduce denials, and let you focus on what matters most — patient care.</p>
           <div class="hero-buttons reveal reveal-delay-3">
-            <a href="#services" class="btn btn-primary" data-nav>Our Services ${icons.arrowRight}</a>
+            <a href="#services" class="btn btn-primary" data-nav>Our Services</a>
             <a href="#contact" class="btn btn-outline" data-nav>Contact Us</a>
           </div>
           <div class="hero-stats reveal reveal-delay-4">
